@@ -3,7 +3,7 @@
 ## Rest API OpenWeather
 ## See [DEMO](https://alekseyfedorov.ru/vueweather).
 # vue-cli
-
+![Kitten](https://github.com/AlekseyFedorov27/Vue-Progect/blob/master/weather%20spa.png "A cute kitten")
 ## Project setup
 ```
 npm install
