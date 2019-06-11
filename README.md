@@ -1,5 +1,6 @@
 
 # Vue weather PWA
+## See [Configuration Reference](https://alekseyfedorov.ru/vueweather).
 # vue-cli
 
 ## Project setup
