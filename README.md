@@ -1,5 +1,6 @@
 
 # Vue weather PWA
+## Rest API OpenWeather
 ## See [DEMO](https://alekseyfedorov.ru/vueweather).
 # vue-cli
 
